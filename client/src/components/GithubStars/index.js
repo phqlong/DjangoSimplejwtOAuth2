@@ -8,7 +8,7 @@ const GithubStars = ({ className }) => (
     <h4 className={styles.header}>You can star us on GitHub</h4>
     <GitHubButton
       className={styles.btnWrapper}
-      href="https://github.com/HackSoftware/Django-React-GoogleOauth2-Example"
+      href="https://github.com/phqlong/DjangoSimplejwtOAuth2"
       data-icon="octicon-star"
       data-size="large"
       data-show-count="true"
